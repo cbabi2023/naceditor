@@ -179,3 +179,8 @@ body{
     margin-left: 0px;
   }
 }
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
